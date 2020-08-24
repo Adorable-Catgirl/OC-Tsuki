@@ -1,0 +1,3 @@
+#!/bin/sh
+mkdir -p mods/$1/arc
+touch mods/$1/init.lua
